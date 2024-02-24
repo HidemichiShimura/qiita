@@ -1,11 +1,11 @@
 ---
 title: 初めてTailwind CSSを使ってみた
 tags:
-  - 'tailwindcss'
-  - 'css'
+  - CSS
+  - tailwindcss
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-02-24T14:38:30+09:00'
+id: 4ec60cc01c433a8550c4
 organization_url_name: null
 slide: false
 ignorePublish: false
